@@ -14,6 +14,8 @@ Repositório do Bootcamp: https://github.com/digitalinnovationone/nexa-analise-a
 
 ## Imagem
 
+<img src="./images/lista-material-escolar.jpeg" alt="Texto Alternativo" width="400">
+
 ## Resultado
 
 \------------------------------<br>
